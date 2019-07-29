@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="city_name">New York</string>
+    <string name="city_weather_now">19c / Sunny</string>
+    <string name="hour">12:30 pm</string>
+</resources>
